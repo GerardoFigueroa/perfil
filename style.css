@@ -80,7 +80,7 @@ h1 {
   border-color: transparent transparent transparent #ff1744;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   .timeline ul li {
     margin-left: 20px;
   }
